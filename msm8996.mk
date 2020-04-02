@@ -424,7 +424,6 @@ PRODUCT_BOOT_JARS += \
 # Fingerprint
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.1-service \
-    ZukPocketMode
 
 # Thermal
 PRODUCT_PACKAGES += \
